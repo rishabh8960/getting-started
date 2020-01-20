@@ -1,2 +1,2 @@
 # getting-started
-just getting started with git and python
+## just getting started with git and python
